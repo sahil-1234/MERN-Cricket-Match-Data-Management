@@ -1,3 +1,4 @@
+
 # Cricket Match Data Management Project
 
 ## Project Overview
@@ -55,5 +56,6 @@ The frontend application will start on http://localhost:3000.
    
 
 
+![cricket](https://github.com/user-attachments/assets/d43c2afb-7f0b-44bb-a17b-759074da18df)
 
 
