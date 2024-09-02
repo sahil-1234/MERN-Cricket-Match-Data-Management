@@ -52,8 +52,6 @@ The backend server will start on http://localhost:4000.
    npm start
 The frontend application will start on http://localhost:3000.
 
-### API Endpoints
-
    
 
 
