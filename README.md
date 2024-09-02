@@ -28,13 +28,33 @@ This project is a cricket match data management system developed using the MERN 
    cd cricket-match-data-management/backend
 2. **Install Dependencies**
 
-```bash
+   ```bash
    npm install
+3. **Configure Environment Variables**
+Create a .env file in the backend directory and add the following:
+   ```env
+   PORT=4000
+   MONGO_URL=mongodb+srv://your_mongo_db_connection_string
+4. **Run the Server**
+   ```bash
+   npm start
+The backend server will start on http://localhost:4000.
+
+### Frontend Setup
+1. **Navigate to Frontend Directory**
+   ```bash
+   cd ../frontend
 2. **Install Dependencies**
-
-```bash
+   ```bash
    npm install
+3. **Run the Development Server**
+   ```bash
+   npm start
+The frontend application will start on http://localhost:3000.
 
+### API Endpoints
+
+   
 
 
 
