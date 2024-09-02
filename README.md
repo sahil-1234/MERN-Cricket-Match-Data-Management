@@ -37,7 +37,7 @@ Create a .env file in the backend directory and add the following:
    MONGO_URL=mongodb+srv://your_mongo_db_connection_string
 4. **Run the Server**
    ```bash
-   npm start
+   node server.js
 The backend server will start on http://localhost:4000.
 
 ### Frontend Setup
