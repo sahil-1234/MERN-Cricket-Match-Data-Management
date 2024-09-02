@@ -10,3 +10,19 @@ This project is a cricket match data management system developed using the MERN 
 - **Edit Ball Data**: Edit previously added ball data.
 - **View Match Details**: Display detailed statistics for the ongoing match, including runs scored, balls played, current run rate, and player stats.
 - **Responsive Design**: Modern and responsive UI inspired by Cricbuzz.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm
+- MongoDB Atlas account for cloud database
+- A code editor (e.g., VSCode)
+
+### Backend Setup
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/your-username/cricket-match-data-management.git
+   cd cricket-match-data-management/backend
