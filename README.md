@@ -26,3 +26,16 @@ This project is a cricket match data management system developed using the MERN 
    ```bash
    git clone https://github.com/your-username/cricket-match-data-management.git
    cd cricket-match-data-management/backend
+2. **Install Dependencies**
+
+```bash
+   npm install
+2. **Install Dependencies**
+
+```bash
+   npm install
+
+
+
+
+
