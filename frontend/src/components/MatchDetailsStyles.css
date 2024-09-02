@@ -1,0 +1,41 @@
+.match-details-container {
+  background-color: #121212;
+  padding: 20px;
+  border-radius: 8px;
+  color: white;
+}
+
+.section-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #bb86fc;
+}
+
+.section-subtitle {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #03dac5;
+}
+
+.match-info {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.stats-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.stats-item {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.loading-text,
+.error-text {
+  font-size: 16px;
+  color: #cf6679;
+}
