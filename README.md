@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project is a cricket match data management system developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides functionalities to manage and update cricket match data, including ball-by-ball updates and detailed statistics for batsmen and bowlers. The frontend is inspired by Cricbuzz, featuring a professional design with a black background and white text.
+This project is a cricket match data management system developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides functionalities to manage and update cricket match data, including ball-by-ball updates and detailed statistics for batsmen and bowlers. 
 
 ## Features
 
