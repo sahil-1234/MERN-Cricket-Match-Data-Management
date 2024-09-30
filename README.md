@@ -1,5 +1,5 @@
 
-# Cricket Match Data Management 
+# Cricket Match Data Management Project
 
 ## Project Overview
 
