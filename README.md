@@ -48,7 +48,7 @@ The backend server will start on http://localhost:4000.
 2. **Install Dependencies**
    ```bash
    npm install
-3. **Run the Development Server
+3. **Run the Development Server**
    ```bash
    npm start
 The frontend application will start on http://localhost:3000.
